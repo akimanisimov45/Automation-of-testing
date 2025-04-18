@@ -1,0 +1,30 @@
+{
+  
+  "name": "labassignment-lab4",
+  
+  "version": "1.0.0",
+  
+  "main": "labAssignment.js",
+  
+  "scripts": {
+  
+    
+  "test": "jest"
+  
+  },
+  
+  "keywords": [],
+  
+  "author": "",
+  
+  "license": "ISC",
+  
+  "description": "",
+  
+  "devDependencies": {
+  
+    
+  "jest": "^29.7.0"
+  
+  }
+}
